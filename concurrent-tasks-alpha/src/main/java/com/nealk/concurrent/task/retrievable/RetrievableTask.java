@@ -1,5 +1,7 @@
 package com.nealk.concurrent.task.retrievable;
 
+import org.jbrew.concurrent.ObjectBlockingRetrievableTask;
+
 import com.nealk.concurrent.ThreadSafe;
 import com.nealk.concurrent.task.Task;
 
@@ -7,6 +9,7 @@ public abstract class RetrievableTask<T> implements Task{
 	
 	protected volatile T obj;
 	private java.util.concurrent.Semaphore objSem;
+	private ObjectBlockingRetrievableTask<T> t;
 	
 	protected RetrievableTask(){
 		this.objSem = new java.util.concurrent.Semaphore(0, false);
