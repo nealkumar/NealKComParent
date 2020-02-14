@@ -7,7 +7,7 @@
 	<parent>
 		<groupId>com.nealk</groupId>
 		<artifactId>parent</artifactId>
-		<version>1.0.0</version>
+		<version>1.0.1-SNAPSHOT</version>
 	</parent>
 	<name>NealK Concurrency Library - Alpha</name>
 	<description>com.nealk concurrent library</description>
