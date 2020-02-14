@@ -364,13 +364,13 @@
 
 					<artifactId>maven-site-plugin</artifactId>
 
-					<!--  <configuration>
+					<configuration>
 
 						<skip>true</skip>
 
 						<skipDeploy>true</skipDeploy>
 
-					</configuration>-->
+					</configuration>
 
 					<version>3.7.1</version>
 
