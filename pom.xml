@@ -9,7 +9,7 @@
 
 	<artifactId>parent</artifactId>
 
-	<version>1.0.1</version>
+	<version>1.0.2-SNAPSHOT</version>
 
 	<name>parent</name>
 
@@ -101,7 +101,7 @@
 
 		<url>https://github.com/nealkumar/NealKComParent</url>
 
-		<tag>v1.0.1</tag>
+		<tag>v1.0.0</tag>
 
 	</scm>
 
