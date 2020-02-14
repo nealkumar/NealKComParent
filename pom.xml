@@ -19,7 +19,7 @@
   	
   <modules>
     		
-    <module>concurrent-tasks</module>
+    <module>concurrent-tasks-alpha</module>
     	  
     <module>testing</module>
       
