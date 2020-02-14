@@ -8,7 +8,6 @@
   </parent>
 
   <artifactId>testing</artifactId>
-  <version>1.0.3-SNAPSHOT</version>
 
   <name>testing</name>
   <url>https://github.com/nealkumar/NealKComParent</url>
