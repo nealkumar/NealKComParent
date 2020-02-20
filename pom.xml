@@ -182,7 +182,7 @@
 		<dependency>
 			<groupId>org.jbrew</groupId>
 			<artifactId>concurrent</artifactId>
-			<version>0.0.2</version>
+			<version>0.0.6</version>
 		</dependency>
 
 	</dependencies>
